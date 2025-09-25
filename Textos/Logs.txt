@@ -1,0 +1,12 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES 
+==================================
+Autor: Juan Sebastian Araujo
+Fecha: 2025-09-10
+
+Resultados:
+2025-09-01 20:01 Creación de archivo Logs
+2025-09-10 20:17 Creación de mi primer programa
+2025-09-17 19:11 Creación de grafico.py
+2025-09-17 19:40 Modificacion de grafico.py
+2025-09-17 20:00 Creacion de res_estadistico.py
+2025-09-17 20:25 Creacion saludo.py
