@@ -10,3 +10,5 @@ Resultados:
 2025-09-17 19:40 Modificacion de grafico.py
 2025-09-17 20:00 Creacion de res_estadistico.py
 2025-09-17 20:25 Creacion saludo.py
+
+FIN!
